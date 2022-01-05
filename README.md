@@ -6,7 +6,7 @@
 docker-compose up -d
 ```
 
-* User: `elastic` Password: `123change...`
+* User: `elastic` Password: `Kaique@23`
 * Elasticsearch: http://localhost:9200
 * Kibana: http://localhost:5601
 * Para demonstração do logstash, consulte confs em logstash/confdir `logstash/conf` dir
