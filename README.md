@@ -14,3 +14,5 @@ docker-compose up -d
 * Para configuração de elasticsearch, consulte `elasticsearch.yml` em `elasticsearch/config` dir
 * Pesquisa de teste `http://localhost:9200/_search`
 
+# Download Winlogbeat para Windows 
+* Link: https://www.elastic.co/pt/downloads/beats/winlogbeat

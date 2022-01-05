@@ -19,3 +19,4 @@ curl -X POST -u elastic:Kaique@23 "localhost:9200/_flush/synced?pretty"
 
 #wget -u elastic:Kaique@23 https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.16.2-x86_64.rpm
 #yum install elasticsearch-7.1.1-x86_64.rpm
+
