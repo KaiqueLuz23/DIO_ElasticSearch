@@ -1,8 +1,11 @@
 # GENERAL SETTINS
 
-cluster.name:    "my-cluster"
-node.name:       "my-name"
-node.attr.zone:  "my-zone"
+cluster.name:    "wdb-cluster"
+#cluster.name:    "my-cluster"
+node.name:       "wdb-elastic"
+#node.name:       "my-name"
+node.attr.zone:  "wdb-zone"
+#node.attr.zone:  "my-zone"
 
 node.data: true
 node.master: true
