@@ -1,0 +1,15 @@
+# Pimeiro comando !
+
+################################################################################################
+
+curl -X PUT -u elastic:Kaique@23 "localhost:9200/_cluster/settings?pretty" -H 'Content-Type: application/json' -d'
+{
+  "persistent": {
+    "cluster.routing.allocation.enable": "primaries"
+  }
+}
+'
+
+# Secundo comando 
+
+################################################################################################
