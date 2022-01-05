@@ -6,7 +6,7 @@ services:
     ports: 
       - "9200:9200"
     environment:
-      - ELASTIC_PASSWORD=123change...     
+      - ELASTIC_PASSWORD=Kaique@23     
       - discovery.type=single-node
       - xpack.security.enabled=true
       - path.data=/usr/share/elasticsearch/data
@@ -25,7 +25,7 @@ services:
     container_name: logstash
     environment:
       - ELASTICSEARCH_USERNAME=elastic
-      - ELASTICSEARCH_PASSWORD="123change..."
+      - ELASTICSEARCH_PASSWORD="Kaique@23"
       - NODE_NAME=my-logstash
       - XPACK_MONITORING_ENABLED=true
       - PATH_CONFIG=/usr/share/logstash/my-confs
@@ -43,7 +43,7 @@ services:
       - "5601:5601"
     environment:
       - ELASTICSEARCH_USERNAME=elastic
-      - ELASTICSEARCH_PASSWORD="123change..."
+      - ELASTICSEARCH_PASSWORD="Kaique@23"
       - ELASTICSEARCH_URL=http://elasticsearch:9200
       - SERVER_NAME=my-kibana
       - XPACK_SECURITY_ENABLED=true
