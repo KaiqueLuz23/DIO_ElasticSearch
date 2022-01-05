@@ -6,11 +6,11 @@
 docker-compose up -d
 ```
 
-* User `elastic` and password `123change...`
+* User: `elastic` Password: `123change...`
 * Elasticsearch: http://localhost:9200
 * Kibana: http://localhost:5601
-* For logstash demo, see confs in `logstash/conf` dir
-* CSV used to load data is in `logstash/csv` dir
-* For elasticsearch configuration, see `elasticsearch.yml` in `elasticsearch/config` dir
-* Search for test `http://localhost:9200/_search`
+* Para demonstração do logstash, consulte confs em logstash/confdir `logstash/conf` dir
+* CSV usado para carregar dados está em `logstash/csv` dir
+* Para configuração de elasticsearch, consulte `elasticsearch.yml` em `elasticsearch/config` dir
+* Pesquisa de teste `http://localhost:9200/_search`
 
