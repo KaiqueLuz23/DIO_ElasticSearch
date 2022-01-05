@@ -15,4 +15,6 @@ docker-compose up -d
 * Pesquisa de teste `http://localhost:9200/_search`
 
 # Download Winlogbeat para Windows 
-* Link: https://www.elastic.co/pt/downloads/beats/winlogbeat
+* Link:
+1- https://www.elastic.co/guide/en/beats/winlogbeat/current/winlogbeat-installation-configuration.html
+2- https://www.elastic.co/pt/downloads/beats/winlogbeat
