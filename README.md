@@ -1,4 +1,4 @@
-# ELK (Elasticsearch + Logstash + Kibana) 7.6.2 with Docker
+# ELK (Elasticsearch + Logstash + Kibana) 7.6.2 + Docker
 
 <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg" alt="ELK" width="400" align="right" />
 
