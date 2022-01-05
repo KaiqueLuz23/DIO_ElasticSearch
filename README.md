@@ -18,3 +18,5 @@ docker-compose up -d
 * Link:
 1- https://www.elastic.co/guide/en/beats/winlogbeat/current/winlogbeat-installation-configuration.html
 2- https://www.elastic.co/pt/downloads/beats/winlogbeat
+* Habilitar a execução de scripts do PowerShell:
+1- https://qastack.com.br/superuser/106360/how-to-enable-execution-of-powershell-scripts
