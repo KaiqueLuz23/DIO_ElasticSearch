@@ -16,6 +16,7 @@ docker-compose up -d
 
 # Download Winlogbeat para Windows 
 * Link:
+https://www.youtube.com/watch?v=MQ1b5eyQgxE&t=2s
 1- https://www.elastic.co/guide/en/beats/winlogbeat/current/winlogbeat-installation-configuration.html
 2- https://www.elastic.co/pt/downloads/beats/winlogbeat
 * Habilitar a execução de scripts do PowerShell:

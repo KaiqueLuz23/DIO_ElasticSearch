@@ -53,4 +53,9 @@ services:
     links:
       - elasticsearch
     depends_on:
-      - elasticsearch
+      - elasticsearch    
+  nginx:
+    image: nginx
+    container_name: nginx
+    ports:
+      - 9000:80
