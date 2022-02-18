@@ -53,7 +53,7 @@ services:
     links:
       - elasticsearch
     depends_on:
-      - elasticsearch    
+      - elasticsearch      
   nginx:
     image: nginx
     container_name: nginx

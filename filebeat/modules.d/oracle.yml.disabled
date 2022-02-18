@@ -1,9 +1,9 @@
 # Module: oracle
-# Docs: https://www.elastic.co/guide/en/beats/filebeat/7.16/filebeat-module-oracle.html
+# Docs: https://www.elastic.co/guide/en/beats/filebeat/master/filebeat-module-oracle.html
 
 - module: oracle
   database_audit:
-    enabled: true
+    enabled: false
 
     # Set which input to use between syslog or file (default).
     #var.input: file

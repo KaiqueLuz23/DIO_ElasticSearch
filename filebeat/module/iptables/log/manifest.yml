@@ -5,7 +5,6 @@ var:
     default:
       - /var/log/iptables.log
   - name: tags
-  - name: tags
     default: [iptables, forwarded]
   - name: syslog_host
     default: localhost

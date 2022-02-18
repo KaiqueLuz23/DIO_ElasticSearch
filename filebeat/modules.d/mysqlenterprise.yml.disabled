@@ -1,9 +1,9 @@
 # Module: mysqlenterprise
-# Docs: https://www.elastic.co/guide/en/beats/filebeat/7.16/filebeat-module-mysqlenterprise.html
+# Docs: https://www.elastic.co/guide/en/beats/filebeat/master/filebeat-module-mysqlenterprise.html
 
 - module: mysqlenterprise
   audit:
-    enabled: true
+    enabled: false
 
     # Sets the input type. Currently only supports file
     #var.input: file

@@ -1,10 +1,10 @@
 # Module: azure
-# Docs: https://www.elastic.co/guide/en/beats/filebeat/7.16/filebeat-module-azure.html
+# Docs: https://www.elastic.co/guide/en/beats/filebeat/master/filebeat-module-azure.html
 
 - module: azure
   # All logs
   activitylogs:
-    enabled: true
+    enabled: false
     var:
       # eventhub name containing the activity logs, overwrite he default value if the logs are exported in a different eventhub
       eventhub: "insights-operational-logs"

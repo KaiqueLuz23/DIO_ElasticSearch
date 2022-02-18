@@ -1,4 +1,4 @@
-# Welcome to Filebeat 7.16.2
+# Welcome to Filebeat 8.0.0
 
 Filebeat sends log files to Logstash or directly to Elasticsearch.
 
@@ -15,13 +15,13 @@ instance. To load the dashboards for Filebeat into Kibana, run:
     ./filebeat setup -e
 
 For further steps visit the
-[Quick start](https://www.elastic.co/guide/en/beats/filebeat/7.16/filebeat-installation-configuration.html) guide.
+[Quick start](https://www.elastic.co/guide/en/beats/filebeat/master/filebeat-installation-configuration.html) guide.
 
 ## Documentation
 
-Visit [Elastic.co Docs](https://www.elastic.co/guide/en/beats/filebeat/7.16/index.html)
+Visit [Elastic.co Docs](https://www.elastic.co/guide/en/beats/filebeat/master/index.html)
 for the full Filebeat documentation.
 
 ## Release notes
 
-https://www.elastic.co/guide/en/beats/libbeat/7.16/release-notes-7.16.2.html
+https://www.elastic.co/guide/en/beats/libbeat/master/release-notes-8.0.0.html
